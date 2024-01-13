@@ -1,0 +1,28 @@
+D:\GameExp\GameExp\obj\Debug\net8.0\GameExp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameExp\GameExp\obj\Debug\net8.0\GameExp.AssemblyInfoInputs.cache
+D:\GameExp\GameExp\obj\Debug\net8.0\GameExp.AssemblyInfo.cs
+D:\GameExp\GameExp\obj\Debug\net8.0\GameExp.csproj.CoreCompileInputs.cache
+D:\GameExp\GameExp\bin\Debug\net8.0\GameExp.exe
+D:\GameExp\GameExp\bin\Debug\net8.0\GameExp.deps.json
+D:\GameExp\GameExp\bin\Debug\net8.0\GameExp.runtimeconfig.json
+D:\GameExp\GameExp\bin\Debug\net8.0\GameExp.dll
+D:\GameExp\GameExp\bin\Debug\net8.0\GameExp.pdb
+D:\GameExp\GameExp\obj\Debug\net8.0\GameExp.dll
+D:\GameExp\GameExp\obj\Debug\net8.0\refint\GameExp.dll
+D:\GameExp\GameExp\obj\Debug\net8.0\GameExp.pdb
+D:\GameExp\GameExp\obj\Debug\net8.0\GameExp.genruntimeconfig.cache
+D:\GameExp\GameExp\obj\Debug\net8.0\ref\GameExp.dll
+D:\VS Save\GameExp\GameExp\bin\Debug\net8.0\GameExp.exe
+D:\VS Save\GameExp\GameExp\bin\Debug\net8.0\GameExp.deps.json
+D:\VS Save\GameExp\GameExp\bin\Debug\net8.0\GameExp.runtimeconfig.json
+D:\VS Save\GameExp\GameExp\bin\Debug\net8.0\GameExp.dll
+D:\VS Save\GameExp\GameExp\bin\Debug\net8.0\GameExp.pdb
+D:\VS Save\GameExp\GameExp\obj\Debug\net8.0\GameExp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Save\GameExp\GameExp\obj\Debug\net8.0\GameExp.AssemblyInfoInputs.cache
+D:\VS Save\GameExp\GameExp\obj\Debug\net8.0\GameExp.AssemblyInfo.cs
+D:\VS Save\GameExp\GameExp\obj\Debug\net8.0\GameExp.csproj.CoreCompileInputs.cache
+D:\VS Save\GameExp\GameExp\obj\Debug\net8.0\GameExp.dll
+D:\VS Save\GameExp\GameExp\obj\Debug\net8.0\refint\GameExp.dll
+D:\VS Save\GameExp\GameExp\obj\Debug\net8.0\GameExp.pdb
+D:\VS Save\GameExp\GameExp\obj\Debug\net8.0\GameExp.genruntimeconfig.cache
+D:\VS Save\GameExp\GameExp\obj\Debug\net8.0\ref\GameExp.dll
